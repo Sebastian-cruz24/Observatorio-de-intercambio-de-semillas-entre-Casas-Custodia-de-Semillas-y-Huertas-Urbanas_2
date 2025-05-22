@@ -1,0 +1,1 @@
+var json_TeatroElCharquito_3 = {"type":"FeatureCollection","name":"TeatroElCharquito_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NOMBRE":null},"geometry":{"type":"Point","coordinates":[-74.274730380515066,4.542900533662289]}}]}
